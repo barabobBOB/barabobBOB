@@ -1,6 +1,7 @@
 - 👋 Hi, I’m seyeon
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
+     React, Flask
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
