@@ -1,4 +1,4 @@
-####👋 Hi, I’m seyeon choi
+#### 👋 Hi, I’m seyeon choi
 - 📖 I am attending Sungkyul University.
 - 👀 I’m interested in Back-end
 - 🌱 I’m currently learning React, Flask
