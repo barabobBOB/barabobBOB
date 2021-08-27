@@ -1,9 +1,8 @@
-- 👋 Hi, I’m seyeon
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-     React, Flask
+####👋 Hi, I’m seyeon choi
+- 📖 I am attending Sungkyul University.
+- 👀 I’m interested in Back-end
+- 🌱 I’m currently learning React, Flask
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 barabobBOB/barabobBOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
