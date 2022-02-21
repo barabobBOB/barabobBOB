@@ -1,5 +1,5 @@
 <div align="center">
-### HI ! 👋🏻 I'm Seyeon-CHOI <br>
+### HI ! 👋🏻 I'm Seyeon-CHOI<br>
 ## 안녕하세요 'Backend engineering'에 관심이 많은 '최세연'입니다.<br>
 
 My OS is win10 but macbook pro coming soon!
