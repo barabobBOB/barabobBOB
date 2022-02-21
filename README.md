@@ -1,12 +1,16 @@
 <div align="center">
+  
 ### HI ! 👋🏻 I'm Seyeon-CHOI<br>
-## 안녕하세요 'Backend engineering'에 관심이 많은 '최세연'입니다.<br>
+  
+## 안녕하세요 'Backend engineer'을 희망하는 개발자 '최세연'입니다.<br>
 
 ### Language<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C/C++-1572B6?style=flat&logo=c&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <br>
 
 ### Framework<br>
@@ -39,17 +43,14 @@
 <br>
 
 ### I will learning<br>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Rust-DC382D?style=flat&logo=rust&logoColor=ffffff"/>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&layout=compact&theme=calm)
-
-[![wakatime](https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg)](https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d)
-wakatime start at 20th.Feb.2022
 
 
 </div>
