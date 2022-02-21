@@ -1,7 +1,4 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=200&section=header&text=I%20am%20coding%20BVer&fontSize=30&fontColor=888888)
-
 # About Me
 I'm Young-Jun Kim (pls call me a BVer), <br>
 who wants to be the best as a Backend engineer!<br>
@@ -27,9 +24,7 @@ My OS is win10 but macbook pro coming soon!
 <br>
 
 ### Database<br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff"/>
 <br>
 
@@ -40,15 +35,8 @@ My OS is win10 but macbook pro coming soon!
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
-<br>
-
-### Monitoring<br>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/>
 <br>
 
 ### IDE<br>
@@ -71,12 +59,11 @@ My OS is win10 but macbook pro coming soon!
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BVer&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0BVer&layout=compact&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&layout=compact&theme=calm)
 
 [![wakatime](https://wakatime.com/badge/user/300bb770-13ef-4b34-9910-601d00003d7d.svg)](https://wakatime.com/@300bb770-13ef-4b34-9910-601d00003d7d)
 wakatime start at 20th.Feb.2022
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=100&section=header&text=Thanks%20for%20your%20interest!&fontSize=30&fontColor=888888)
 
 </div>
