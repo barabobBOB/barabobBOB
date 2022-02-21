@@ -2,10 +2,6 @@
 ### HI ! 👋🏻 I'm Seyeon-CHOI<br>
 ## 안녕하세요 'Backend engineering'에 관심이 많은 '최세연'입니다.<br>
 
-My OS is win10 but macbook pro coming soon!
-
-<hr>
-
 # Tech Stacks I've Experienced
 ### Language<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
