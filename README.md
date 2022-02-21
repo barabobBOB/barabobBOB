@@ -3,18 +3,15 @@
 ## 안녕하세요 'Backend engineering'에 관심이 많은 '최세연'입니다.<br>
 
 ### Language<br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
 <br>
 
 ### Framework<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <br>
 
 ### Database<br>
@@ -33,13 +30,6 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
 
-### IDE<br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff"/>
-<br>
-
 ### favorite Tools<br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=ffffff"/>
@@ -50,7 +40,9 @@
 
 ### I will learning<br>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)
