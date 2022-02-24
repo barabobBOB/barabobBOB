@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff"/>
 <br>
 
-### other I can use<br>
+### etc<br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=ffffff"/>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
 
-### favorite Tools<br>
+### Tools<br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
 <br>
 
-### I will learning<br>
+### learning...<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
