@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Rust-DC382D?style=flat&logo=rust&logoColor=ffffff"/>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)
