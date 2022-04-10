@@ -2,7 +2,7 @@
   
 ### HI ! 👋🏻 I'm Seyeon-CHOI<br>
   
-## 안녕하세요 'Backend engineer'을 희망하는 개발자 '최세연'입니다.<br>
+## 안녕하세요 Backend engineer에 관심 있는 최세연입니다.<br>
 
 ### Language<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
