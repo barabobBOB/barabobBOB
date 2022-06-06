@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
   
-### learning...
+### Learning...
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
 <hr>
 </div>
