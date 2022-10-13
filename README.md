@@ -26,12 +26,12 @@
 <img src = "https://img.shields.io/badge/-Google Cloud Platform-4285F4?logo=GoogleCloud&logoColor=white&style=flat">
 <br>
   
-### Tools
+<!-- ### Tools
 <img src = "https://img.shields.io/badge/-Git Kraken-179287?logo=GitKraken&logoColor=black&style=flat"/>
 <img src = "https://img.shields.io/badge/-GitLab-FC6D26?logo=GitLab&logoColor=black&style=flat"/>
 <img src = "https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat"/> 
 <img src = "https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"/>
-<br>
+<br> -->
   
 ### Etc
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff"/>
@@ -41,8 +41,8 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff"/>
 <br>
   
-### Learning...
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/>
+ <!-- ### Learning...
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/> -->
 <hr>
 </div>
 
