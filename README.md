@@ -1,7 +1,7 @@
 <div align="center">
   
 ### HI ! 👋🏻 I'm Seyeon-CHOI<br />
-[✨ My portfolio Link!](https://mellow-aquarius-d58.notion.site/d86956c24b8b4f37a81ffc0e5a47dba8) <br /><br />
+[✨ My portfolio Link!]( https://mellow-aquarius-d58.notion.site/d86956c24b8b4f37a81ffc0e5a47dba8](https://drive.google.com/file/d/1DW8aLJhulVxjq1PeO094XE_iD247COaY/view?usp=sharing ) <br /><br />
   
 </div>
 
