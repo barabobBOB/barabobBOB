@@ -7,7 +7,7 @@
 
 <a href="https://github.com/barabobBOB">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats"  height="180" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&theme=tokyonight&layout=compact&exclude_repo="  height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&theme=tokyonight&layout=compact&exclude_repo=programmers-dev-crawling-project,Member_django,rust_study"  height="180" />
 </a>
 
 <!-- <hr>
