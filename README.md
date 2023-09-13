@@ -1,7 +1,7 @@
 <div align="center">
   
-### HI ! 👋🏻 I'm Seyeon-CHOI<br />
-[✨ My portfolio Link!]( https://drive.google.com/file/d/1HrfEhkEsQ8SpWsV-P10flcE6Kkf3kYNl/view?usp=sharing ) <br /><br />
+### 백엔드 엔지니어 최세연입니다 😀<br />
+[✨ 이력서 ✨]( https://docs.google.com/document/d/1_sgmCxsg3aKP5Lj7JaPqsC7cyMC42rWhCveiQYT0jl4/edit?usp=sharing ) <br /><br />
   
 </div>
 
@@ -50,15 +50,16 @@
  <!-- ### Learning...
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff"/> -->
 <!-- <hr>
+</div> -->
+
+<!--
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&layout=compact&theme=calm)
+  
 </div>
-
-<div align="center"> -->
-  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)  -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barabobBOB&layout=compact&theme=calm) -->
-  
-<!-- </div> -->
-
+-->
 <!-- 사용 예정 -->
 <!-- <img src = "https://img.shields.io/badge/-AWS-232F3E?logo=AmazonAWS&logoColor=white&style=flat"> -->
  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff"/> -->
