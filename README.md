@@ -1,6 +1,5 @@
 <div align="center">
   
-### 백엔드 엔지니어 최세연입니다 😀<br />
 [✨ 이력서 ✨]( https://drive.google.com/file/d/1_KTfFxsec0OyxBZNI0kaUqZNUpq8pwVw/view?usp=sharing ) <br /><br />
   
 </div>
