@@ -1,6 +1,11 @@
-<div align="center">
-  
-</div>
+### 👋🏻 안녕하세요 데이터 엔지니어 최세연입니다
+
+---
+#### 캐치테이블(WAD) | Data Engineer | 25.03 - 재직중
+
+#### Sparrow(Fasoo) | Data Engineer | 24.08 - 24.11
+
+#### 유니로보틱스 | Backend Engineer | 22.03 - 22.07
 
 <!-- <a href="https://github.com/barabobBOB"> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=barabobBOB&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats"  height="180" /> -->
